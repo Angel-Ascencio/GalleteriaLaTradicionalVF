@@ -9,6 +9,9 @@ Este proyecto se desarrollo en:
 *  Node.js 22.17.0
 *  MySQL Workbench 8.0 CE
 
+## Instalar
+wkhtmltox-0.12.6-1.msvc2015-win64.exe
+
 En cuanto a las areas encargadas por estudiante son:
 
 # [Oscar Gomez](https://github.com/Oscar-Gomez-Luna)
